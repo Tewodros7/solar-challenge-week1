@@ -1,1 +1,11 @@
- 
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+plotly
+notebook
+windrose 
+ipykernel
+streamlit 
